@@ -1,3 +1,5 @@
+[Download MyGame.html](https://github.com/iceywolf2/SquareDodgergame/raw/main/MyGame.html)
+
 Square Dodger
 
 Square Dodger is a fast-paced HTML5 game where you control a glowing square and dodge falling blocks. Test your reflexes and see how long you can survive!
